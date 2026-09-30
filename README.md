@@ -7,7 +7,7 @@ KAIRO is a fictional Japanese sushi & dining restaurant website featuring a soph
 The project was first designed as a UI concept in Figma and then translated into a functional front-end website.
 
 ## Preview
-![VERDE Preview](images/preview.png)
+![KAIRO Preview](images/preview.png)
 
 ## Features
 
