@@ -2,12 +2,12 @@
 
 A modern Japanese sushi restaurant website designed in Figma and developed from scratch using HTML, CSS, and JavaScript.
 
-![KAIRO Website Preview](image/preview)
-
 KAIRO is a fictional Japanese sushi & dining restaurant website featuring a sophisticated editorial-style design with warm neutral tones, dark sections, high-quality food imagery, and refined typography.
 
 The project was first designed as a UI concept in Figma and then translated into a functional front-end website.
 
+## Preview
+![VERDE Preview](images/preview.png)
 
 ## Features
 
